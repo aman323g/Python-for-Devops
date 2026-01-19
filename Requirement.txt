@@ -1,0 +1,13 @@
+Project requirement:
+command for creating python env: python -m venv .venv
+command for activating the v env: .venv\Scripts\activate
+
+we have a foldder in our laptop
+D:\UDEMY COURSES\Python for Devops
+
+Now we already did the setup of venv also.
+
+we need to use this folder in github:
+
+Task1: we need to create a repo in github where the code of this folder will get pushed.
+Task2: we will create branch section wise and then once one section completed will push into main.
