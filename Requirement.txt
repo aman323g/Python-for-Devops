@@ -6,8 +6,22 @@ we have a foldder in our laptop
 D:\UDEMY COURSES\Python for Devops
 
 Now we already did the setup of venv also.
-
 we need to use this folder in github:
 
 Task1: we need to create a repo in github where the code of this folder will get pushed.
 Task2: we will create branch section wise and then once one section completed will push into main.
+
+pip install jupyterlab ---it will install dependencies.
+This command installs JupyterLab, which is a web-based interactive development environment mainly used for:
+
+Writing and running Python code step-by-step
+
+Creating Jupyter Notebooks (.ipynb files)
+
+Data analysis, automation testing, ML/AI experiments
+
+Visual outputs (tables, charts, logs)
+
+Think of JupyterLab as a browser-based coding lab for Python.
+
+jupyter lab --- it will host jupyter notebook in web browser localhost:8888e
