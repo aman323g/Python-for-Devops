@@ -178,7 +178,8 @@ git status
 git add .
 git commit -m "message"
 git push
-```
+git remote set-url origin https://github.com/aman323g/python-for-Devops.git
+git push --set-upstream origin section-3-basics -- change your branch name
 
 When section ends:
 
